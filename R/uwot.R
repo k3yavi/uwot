@@ -1,4 +1,4 @@
-#' Dimensionality Reduction with UMAP
+
 #'
 #' Carry out dimensionality reduction of a dataset using the Uniform Manifold
 #' Approximation and Projection (UMAP) method (McInnes & Healy, 2018). Some of
